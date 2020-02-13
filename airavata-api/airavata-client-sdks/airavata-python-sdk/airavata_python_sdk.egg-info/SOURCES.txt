@@ -172,6 +172,8 @@ clients/tenant_profile_client.py
 clients/user_profile_client.py
 samples/__init__.py
 samples/api_server_client_samples.py
+samples/create_launch_echo_experiment.py
+samples/create_launch_gaussian_experiment.py
 samples/group_manager_client_samples.py
 samples/iam_admin_client_samples.py
 samples/sharing_registry_client_samples.py
